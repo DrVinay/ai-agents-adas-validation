@@ -1,4 +1,4 @@
-[AI Agent Demo](https://github.com/DrVinay/ai-agents-adas-validation/blob/main/ai_adas_agent_demo.gif)
+![AI Agent Demo](https://github.com/DrVinay/ai-agents-adas-validation/blob/main/ai_adas_agent_demo.gif)
 # AI agents for ADAS Validation - Build from scratch
 # From Tool Calling to Governed Multi-Agent Systems
 
