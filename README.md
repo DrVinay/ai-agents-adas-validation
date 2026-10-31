@@ -1,4 +1,4 @@
-# AI agents for ADAS Validation - Build from scratch
+<img width="4032" height="1144" alt="image" src="https://github.com/user-attachments/assets/cadc874e-d56c-4a41-92b2-1929e266669f" /># AI agents for ADAS Validation - Build from scratch
 # From Tool Calling to Governed Multi-Agent Systems
 
 ### A progressive Python project culminating in a governed multi-agent ADAS HIL validation workflow
@@ -1293,4 +1293,4 @@ Future work around this repository will focus on documenting, presenting, and ev
 
 ## License
 
-'add here'
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/DrVinay/ai-agents-adas-validation/blob/main/LICENSE) file for details.
