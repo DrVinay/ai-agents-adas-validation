@@ -1,4 +1,5 @@
-<img width="4032" height="1144" alt="image" src="https://github.com/user-attachments/assets/cadc874e-d56c-4a41-92b2-1929e266669f" /># AI agents for ADAS Validation - Build from scratch
+[AI Agent Demo](https://github.com/DrVinay/ai-agents-adas-validation/blob/main/ai_adas_agent_demo.gif)
+# AI agents for ADAS Validation - Build from scratch
 # From Tool Calling to Governed Multi-Agent Systems
 
 ### A progressive Python project culminating in a governed multi-agent ADAS HIL validation workflow
